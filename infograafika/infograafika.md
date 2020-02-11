@@ -255,6 +255,9 @@ https://opendata.riik.ee/
 
 http://andmebaas.stat.ee/
 
+https://akadeemiake.ee/juhendmaterjalid/andmebaasid-ja-arhiivid/ Akadeemiake.ee andmebaaside viited 📌 
+
+
 
 https://www.pubnub.com/developers/realtime-data-streams/
 
@@ -276,7 +279,7 @@ https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f633
 
 ## Graafikutüübid
 
-http://datavizproject.com/
+http://datavizproject.com/ 📌
 
 https://datavizcatalogue.com/
 
