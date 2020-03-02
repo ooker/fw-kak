@@ -111,6 +111,10 @@ Tiba ikka. Tuleme selle juurde tagasi kui siin rohkem sisu on.
 
 ## Värvist ja kontrastist
 
+#### Värvitööriistad, palettide generaatorid jne
+
+https://leonardocolor.io/
+
 ---
 
 
