@@ -257,7 +257,7 @@ http://andmebaas.stat.ee/
 
 https://akadeemiake.ee/juhendmaterjalid/andmebaasid-ja-arhiivid/ Akadeemiake.ee andmebaaside viited 📌 
 
-
+https://datahub.io/collections - 
 
 https://www.pubnub.com/developers/realtime-data-streams/
 
