@@ -483,45 +483,43 @@ https://cssanimation.rocks/principles/
 ## Animatsiooni&shy;tehnikaid koos näidetega
 
 
-Stop-motion - kõige traditsioonilisem animatsioonitehnika - kaamera ees vahetatakse joonistatud kaadreid, mis teineseisest pisut erinevad või nihutatakse objekte, iga joonistus või pisike nihe pildistatakse üles. Üles pildistatud kaadrid videoks kokku pannes tekib illusioon liikumisest.
-https://en.wikipedia.org/wiki/Stop_motion 
-nn “nukufilm” (legod, paberist lamenukud, päris inimesed jne)
-nn “tahvlianimatsioon” https://www.youtube.com/watch?v=6vZ0iqUS6sg
+- <var>Stop-motion</var> - kõige traditsioonilisem animatsioonitehnika - kaamera ees vahetatakse joonistatud kaadreid, mis teineseisest pisut erinevad või nihutatakse objekte, iga joonistus või pisike nihe pildistatakse üles. Üles pildistatud kaadrid videoks kokku pannes tekib illusioon liikumisest.
+<f-link to="https://en.wikipedia.org/wiki/Stop_motion">Wikipedia artikkel</f-link> 
+    - nn “nukufilm” (legod, paberist lamenukud, päris inimesed jne) <f-link to="https://www.youtube.com/watch?v=_5IqwECL6bo">Human skateboard</f-link> ja üldse <f-link to="https://www.youtube.com/channel/UCXN7NMwjjQpBHxzMwOPYzjQ">kogu PES</f-link>
+    - nn <f-link to="https://www.youtube.com/watch?v=6vZ0iqUS6sg">“tahvlianimatsioon”</f-link> 
+    - mõni Ametikoolis tehtud õpilastöö: <f-link to="https://www.youtube.com/watch?v=FMvLLQwxkoY">jõulud 2015</f-link>, <f-link to="https://www.youtube.com/watch?v=aUmZahfh07g">jõulud 2013</f-link> ja <f-link to="https://www.youtube.com/watch?v=YlZemcvGzzM&">Wood is Good</f-link>
 
+- <var>Time-lapse</var> - **kaamera on paigal** ja teeb objektiivi ette jäävast mingi kindla vaheaja järel pildi. <f-link to="https://en.wikipedia.org/wiki/Time-lapse_photography">Wikipedia</f-link>
+    - <f-link to="https://www.youtube.com/watch?v=KX1MPlWwkh0">Disainimajaka ehitamine</f-link>
 
-Lihtne Ametikooli jõulutervitus 2015: https://www.youtube.com/watch?v=FMvLLQwxkoY 
-Jõulutervitus 2013: https://www.youtube.com/watch?v=aUmZahfh07g 
-Veel üks siin tehtud: https://www.youtube.com/watch?v=YlZemcvGzzM& 
-Timelapse - kaamera on paigal ja teeb objektiivi ette jäävast mingi kindla vaheaja järel pildi.
-graphy https://en.wikipedia.org/wiki/Time-lapse_photo
-Hyperlapse - kaamera liigub ja teeb objektiivi ette jäävast mingi kindla vaheaja järel pildi.
-https://en.wikipedia.org/wiki/Hyperlapse 
-Mõned Androidi äppid: https://petapixel.com/2014/10/05/3-hyperlapse-alternatives-android-users-feeling-left-instagram/ (otsige lisa)
-Näiteks Microsoft Hyperlapse (Androididele) töötab lihtsalt, kiirelt ja korralikult: https://play.google.com/store/apps/details?id=com.microsoft.hyperlapsemobile&hl=en 
-Parallax
-https://www.youtube.com/watch?v=5jhYrF-SxOI 
-https://www.youtube.com/watch?v=cUfmUPhApJ0 - siin on kasutatud pildi osade liigutamiseks lisaks veel ühte efekti, nn “puppet pin” tööriista. Selle kohta ka link igaks juhuks: https://www.youtube.com/watch?v=aXxh6OsamhY 
-Parallax tutorial: https://www.youtube.com/watch?v=XdYEzui3Ttc 
-Motion capture / tracking
-https://www.engadget.com/2014/07/14/motion-capture-explainer/ 
+- <var>Hyperlapse</var> - edasiarendus timelapse'st: **kaamera liigub** ja teeb objektiivi ette jäävast mingi kindla vaheaja järel pildi. <f-link to="https://en.wikipedia.org/wiki/Hyperlapse">Wikipedia</f-link> 
+    - Mõned Androidi rakendused: https://petapixel.com/2014/10/05/3-hyperlapse-alternatives-android-users-feeling-left-instagram/ (otsige lisa)
+    - Näiteks Microsoft Hyperlapse (Androididele) töötab lihtsalt, kiirelt ja korralikult: https://play.google.com/store/apps/details?id=com.microsoft.hyperlapsemobile&hl=en 
 
+- <var>Parallax</var>
+    - https://www.youtube.com/watch?v=5jhYrF-SxOI 
+    - https://www.youtube.com/watch?v=cUfmUPhApJ0 - siin on kasutatud pildi osade liigutamiseks lisaks veel ühte efekti, nn “puppet pin” tööriista. Selle kohta ka link igaks juhuks: https://www.youtube.com/watch?v=aXxh6OsamhY 
+    - Parallax tutorial: https://www.youtube.com/watch?v=XdYEzui3Ttc 
 
-https://www.youtube.com/watch?v=0ToPGhr_muI 
-https://www.youtube.com/watch?annotation_id=annotation_830103433&feature=iv&src_vid=uG1MRzJpaPw&v=ulH-pumQbO8 
-Cinemagraph
-https://www.youtube.com/watch?v=-dD_yeVMUzo 
-http://i.giphy.com/3o84UaVKBS9b0Xw2RO.gif (Lauri tehtud)
-http://www.atlasobscura.com/articles/cinemagraph-waves Lained
-Title design
-tegelikult eraldi tiba pikem teema, lisan siia lihtsalt endale reminderina (Oliver)
-Rotoscoping
-https://en.wikipedia.org/wiki/Rotoscoping 
-https://www.youtube.com/watch?v=SbPgprcMtjo 
-https://www.youtube.com/watch?v=hkjDUERgCQw 
-Morphing 
-https://en.wikipedia.org/wiki/Morphing 
-https://www.youtube.com/watch?v=r56pUyN-MVM 
-https://www.youtube.com/watch?v=JY38kZFbGcY 
+- <var>Motion capture / tracking</var>
+    - https://www.engadget.com/2014/07/14/motion-capture-explainer/ 
+    - https://www.youtube.com/watch?v=0ToPGhr_muI 
+    - https://www.youtube.com/watch?annotation_id=annotation_830103433&feature=iv&src_vid=uG1MRzJpaPw&v=ulH-pumQbO8 
+
+- <var>Cinemagraph</var>
+    - https://www.youtube.com/watch?v=-dD_yeVMUzo 
+    - http://i.giphy.com/3o84UaVKBS9b0Xw2RO.gif (Lauri tehtud)
+    - http://www.atlasobscura.com/articles/cinemagraph-waves Lained
+
+- <var>Rotoscoping</var>
+    - https://en.wikipedia.org/wiki/Rotoscoping 
+    - https://www.youtube.com/watch?v=SbPgprcMtjo 
+    - https://www.youtube.com/watch?v=hkjDUERgCQw 
+
+- <var>Morphing</var> 
+    - https://en.wikipedia.org/wiki/Morphing 
+    - https://www.youtube.com/watch?v=r56pUyN-MVM 
+    - https://www.youtube.com/watch?v=JY38kZFbGcY 
 
 Varia (mitmesugust erinevat kraami)
 https://en.wikipedia.org/wiki/Mannequin_Challenge 
