@@ -336,14 +336,30 @@ Lisaks sellele videole, on siin õnneks olemas üks tänuväärne <f-link to="ht
 | chapter: Animatsiooniteooria
 | section: Põhimõisted
 | cols: 1fr 3fr
-| rows: 15vh auto
+| rows: auto
 | 1 1
 | 2 3
 | 4 5
 | 6 7
 | 8 9
+| 10 11
+
 
 ## Seletame lahti mõned animatsiooni põhimõisted
+
+&nbsp;
+
+-
+
+Videotund põhiliste animatsiooni puudutavate mõistetega. Allpool on need veel ka eraldi lahti seletatud. 
+
+👉 Link videos kasutatavale <f-link to="https://designstem.github.io/projects/easing/">simulaatorile</f-link>
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/zzBBpYilHbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
 
 -
 
@@ -479,9 +495,18 @@ https://cssanimation.rocks/principles/
 
 
 | section: Tehnikaid ja näiteid
+| cols: 1fr 2fr
+| rows: 15vh auto 
+| 1 1
+| 2 3
 
 ## Animatsiooni&shy;tehnikaid koos näidetega
 
+-
+
+Siin on väike nimekiri animatsiooni ja liikuva graafika tehnikatest. Lisatud on ka näiteid. Mõni neist polegi nagu eraldi niiöelda "ametlik" tehnika, aga see polegi nii tähtis - olgu see nimekiri siin lihtsalt väikeseks inspiratsiooniks erinevatest võimalustest. 
+
+-
 
 - <var>Stop-motion</var> - kõige traditsioonilisem animatsioonitehnika - kaamera ees vahetatakse joonistatud kaadreid, mis teineseisest pisut erinevad või nihutatakse objekte, iga joonistus või pisike nihe pildistatakse üles. Üles pildistatud kaadrid videoks kokku pannes tekib illusioon liikumisest.
 <f-link to="https://en.wikipedia.org/wiki/Stop_motion">Wikipedia artikkel</f-link> 
