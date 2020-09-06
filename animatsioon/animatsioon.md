@@ -1,6 +1,6 @@
 | chapter: Animatsioon
 | section: Avaleht
-| rows: 15vh 30vh auto
+| rows: 15vh auto
 | 1
 | 2
 | 3
@@ -43,7 +43,7 @@
 
 -
 
-# <var>Animatsioon</var>
+# <var>Animat&shy;sioon</var>
 
 on illusioon liikumisest, mis tekib staatiliste piltide piisava kiirusega järjestikusel esitamisel.
     
@@ -72,7 +72,6 @@ Enamasti toimub animatsioon ekraanil, aga vahel leiame liikuvat pilti ka pisut o
 
 | id: animationTypes
 | section: Peamised tüübid
-| rows: auto
 | cols: 1fr 1fr
 | 1 1
 | 2 3
@@ -131,11 +130,12 @@ Programmeerimiskeelte abil loodud generatiivne ja/või interaktiivne animatsioon
 
 | chapter: Ajalugu
 | section: Esimesed katsed
-| rows: 20vh auto
 | 1 1
 | 2 3
 
 ## Animat&shy;siooni ajalugu
+
+&nbsp;
 
 -
 
@@ -165,11 +165,12 @@ Küllap seetõttu on ka animatsiooni kaugeteks esiisadeks peetavad esimesed kats
 
 
 | section: Kummalised kaadervärgid
-| rows: 20vh auto
 | 1 1
 | 2 3
 
 ## Kummalised kaadervärgid
+
+&nbsp;
 
 -
 
@@ -204,7 +205,7 @@ Toome siin näitena mõned ära.
 Aastal 1895 patenteerisid vennad **Auguste ja Louis Lumière** 
 veel ühe kummalise kaadervärgi, mille nad nimtasid kaunilt:
 
-# <f-link to="http://en.wikipedia.org/wiki/Cin%C3%A9matographe"><var>le Cinématographe</var></f-link>
+# <f-link to="http://en.wikipedia.org/wiki/Cin%C3%A9matographe"><var>le Cinémato&shy;graphe</var></f-link>
 
 Hoolimata sellest, et on neid, kes väidavad, justkui pannuks vennad idee pihta kelleltik <f-link to="https://en.wikipedia.org/wiki/L%C3%A9on_Bouly">Léon Bouly'lt</f-link> 
 loetakse seda sündmust **kaasaegse filmikunsti sünniks**.
@@ -218,11 +219,12 @@ loetakse seda sündmust **kaasaegse filmikunsti sünniks**.
 
 | section: 20. sajand
 | cols: 1fr 3fr
-| rows: 20vh auto
 | 1 1
 | 2 3
 
 ## Mis edasi sai?
+
+&nbsp;
 
 -
 
@@ -246,13 +248,14 @@ Meist oleks väga kena ka neil teemadel pisut peatuda, aga hetkel pole mahti...
 
 | section: Arvutianimatsiooni ajalugu
 | cols: 2fr 3fr 3fr
-| rows: 15vh auto
 | 1 1 1
 | 2 3 4
 | 2 5 6
 
 
 ## Arvuti&shy;animatsiooni ajalugu
+
+&nbsp;
 
 -
 
@@ -293,13 +296,14 @@ Kordusena võtab selle esimene osa kokku ka palju juba läbi räägitud teemasid
 
 | section: Liikuva graafika ajalugu
 | cols: 2fr 3fr
-| rows: 20vh auto
 | 1 1
 | 2 3
 
 
 
 ## Liikuva graafika ajalugu
+
+&nbsp;
 
 -
 
@@ -336,7 +340,6 @@ Lisaks sellele videole, on siin õnneks olemas üks tänuväärne <f-link to="ht
 | chapter: Animatsiooniteooria
 | section: Põhimõisted
 | cols: 1fr 3fr
-| rows: auto
 | 1 1
 | 2 3
 | 4 5
@@ -496,11 +499,12 @@ https://cssanimation.rocks/principles/
 
 | section: Tehnikaid ja näiteid
 | cols: 1fr 2fr
-| rows: 15vh auto 
 | 1 1
 | 2 3
 
 ## Animatsiooni&shy;tehnikaid koos näidetega
+
+&nbsp;
 
 -
 
