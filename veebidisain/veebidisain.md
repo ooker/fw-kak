@@ -398,6 +398,8 @@ M√µttekaart koosnes mugavamalt muudetavatest osadest - <var>moodulitest</var> v√
 
 <f-image src="./img/paper-prototype.gif" style="--image-height:60vh" />
 
+<small><a href="https://commons.wikimedia.org/wiki/File:Paperbasedprototype5.jpg" title="via Wikimedia Commons">Samuel.mann at English Wikibooks</a> / <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA</a></small>
+
 ---
 
 
