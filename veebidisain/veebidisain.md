@@ -11,7 +11,7 @@
 
 <h1 style="--base:1.5vw;">&lt;veebi&shy;disain/&gt;</h1>
 
-väike sissejuhatus teemasse, tööprotsessist, prototüüpimisest, töövahenditest jne
+##### väike sissejuhatus teemasse: pisut tööprotsessist, prototüüpimisest, töövahenditest jne
 
 &nbsp;
 
@@ -105,7 +105,7 @@ Nagu öeldud, tuleks korra maha istuda ja pireke aru pidada, et pahandust ei tul
 
 -
 
-<f-image src="https://media.snl.no/media/37666/standard_Stalin.jpg" style="min-height: 80vh; height: 100vh; position:sticky; top:15vh;" />
+<f-image src="https://media.snl.no/media/37666/standard_Stalin.jpg" style="min-height: 70vh; height: 85vh; position:sticky; top:15vh;" />
 
 ---
 
@@ -166,7 +166,7 @@ Klient võib olla kas liiga väheste või hoopis liiga suurte kogemustega - tema
 
 #### 2. Pane kõik kirja
 
-Tavaline list või nimekiri on alustuseks täiesti ok. Jah, see sama, et kirjutad kõik olulised märksõnad lihtsalt eraldi välja koos kommentaaride ja küsimustega. Tuletame meelde oma lillepoe rakendust. Millest seal juttu oligi? **Proovi esmalt ise meelde tuletada**, siis vaata järgi. 
+Tavaline list või nimekiri on alustuseks täiesti ok. Jah, see sama, et kirjutad kõik olulised märksõnad lihtsalt eraldi välja koos kommentaaride ja küsimustega. Tuletame meelde oma lillepoe rakendust. Millest seal juttu oligi? **Proovi esmalt meelde tuletada**, siis vaata järgi. 
 
 <details>
 
@@ -461,16 +461,15 @@ Asi töötab väga lihtsalt: me saame selle rakendusega oma paberprototüübi va
 | chapter: HI-FI prototüübid
 | section: Prototüüpimiskeskkonnad
 
-Ülevaade vahenditest
+Siit läheb ehk kunagi edasi...
 
 ---
 
 
 
+<!--  
 
-
-
-| section: Figma
+section: Figma
 
 Siin hakkame Figmaga pihta...
 
@@ -480,8 +479,8 @@ Siin hakkame Figmaga pihta...
 
 
 
-| chapter: Disainiteooria
-| section: Kompositsioon
+chapter: Disainiteooria
+section: Kompositsioon
 
 kompa (joondus ka?)
 
@@ -490,7 +489,7 @@ kompa (joondus ka?)
 
 
 
-| section: Grid
+section: Grid
 
 Grid
 
@@ -500,7 +499,7 @@ Grid
 
 
 
-| section: Värv
+section: Värv
 
 Värv
 
@@ -509,7 +508,7 @@ Värv
 
 
 
-| section: Tekstid
+section: Tekstid
 
 Veebitüpost
 
@@ -520,8 +519,8 @@ Veebitüpost
 
 
 
-| chapter: Graafilised jubinad
-| section: Pikselgraafika
+chapter: Graafilised jubinad
+section: Pikselgraafika
 
 failitüübid, pilditöötluse alused
 
@@ -531,10 +530,10 @@ failitüübid, pilditöötluse alused
 
 
 
-| section: Vektorgraafika
+section: Vektorgraafika
 
 svg, vektorgraafika alused
 
 ---
 
-
+-->
