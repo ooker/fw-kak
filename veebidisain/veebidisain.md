@@ -54,6 +54,10 @@ Kui pisut üldistada, siis võiksimegi me rääkida **kasutajaliideste disainist
 
 Meie keskendume siin peamiselt siiski **digitaalsete kasutajaliideste** tegemisele - olgu see siis mõni **mobiilirakendus**, **veebileht**, **mäng** või midagi muud taolist.
 
+&nbsp;
+
+<f-next-button title="Järgmine: Planeerimine"  />
+
 -
 
 <f-image src="https://upload.wikimedia.org/wikipedia/commons/8/83/Wireless_toilet_control_panel_w._open_lid.jpg" style="height:80vh" />
@@ -102,6 +106,10 @@ Vigadega disainis ja arenduses on täpselt samamoodi - mõni on lihtne parandada
 ### Mida siis teha?
 
 Nagu öeldud, tuleks korra maha istuda ja pireke aru pidada, et pahandust ei tuleks. Järgnevalt vaatamegi, mida ette võtta.
+
+&nbsp;
+
+<f-next-button title="Järgmine: Kuidas alustada"  />
 
 -
 
@@ -287,6 +295,8 @@ Kuna mobiiltelefonidel on vaateväli väiksem ja seega ei saa sealsed vaated oll
 
 Tasapisi olemegi liikumas nüüd tavaliste nimekirjade juurest spetsiifilisemate kasutajaliideste kavandamise rakenduste juurde:
 
+&nbsp;
+
 <f-next-button title="Järgmiseks: Prototüübid" />
 
 -
@@ -393,6 +403,10 @@ Esmalt võiks mainida välja prinditavaid seadmete raame, mis annaksid nüüd me
 Kas mäletad, mis vahe oli pikal nimekirjal ja mõttekaardil? 
 
 Mõttekaart koosnes mugavamalt muudetavatest osadest - <var>moodulitest</var> või <var>komponentidest</var> (need postIT-id ja muu mudru). Me saame **sama teha ka prototüübi puhul** kui joonistame oma **kasutajaliidese komponendid** (menüüd, nupud, pildid, teated jne) õiges suuruses paberile ja **lõikame välja**. Nii saame me kokku kombineerida ja proovida erinevaid vaateid ilma neid pidevalt ümber joonistamata. 👍
+
+&nbsp;
+
+<f-next-button title="Järgmine: Interaktiivsus"  />
 
 -
 
