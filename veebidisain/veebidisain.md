@@ -269,7 +269,7 @@ Taolisi info struktureerimise ja kaardistamise meetodeid ja töövahendeid on mu
 
 -
 
-#### 4. Millised vaated meil tekivad?
+#### 4. Mis vaated meil tekivad?
 
 Kõik need peamised funktsionaalsused vajavad mingit **kasutaliidese vaadet**: näiteks lillede saaja andmete jaoks peab olema vaade või vorm väljadega, mida saaks infoga täita (nimi, aadress, telefon jne).
 
