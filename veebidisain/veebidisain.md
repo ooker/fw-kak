@@ -91,7 +91,7 @@ Sest targad mehed ja naised on öelnud umbes nii, et
 
 </blockquote>
 
-Väga lihtne mõte. Siin kõrval on foto ühest kenast noorest mehest kes tegi oma elu jooksul päris hullu pahandust. Kui see "viga" oleks varakult avastatud, oleks suure osa maailma ajalugu hoopis teistsugune. Kas sa tead, kes see tore poiss on?
+Väga lihtne mõte. Siin kõrval on foto ühest kenast noorest mehest kes tegi oma elu jooksul päris palju pahandust. Kui see "viga" oleks varakult avastatud, võiks suure osa maailmast ajalugu hoopis teistsugune olla. Kas sa tead, kes see tore poiss on?
 
 <details>
 
@@ -113,7 +113,7 @@ Nagu öeldud, tuleks korra maha istuda ja pireke aru pidada, et pahandust ei tul
 
 -
 
-<f-image src="https://media.snl.no/media/37666/standard_Stalin.jpg" style="min-height: 70vh; height: 85vh; position:sticky; top:15vh;" />
+<f-image src="https://media.snl.no/media/37666/standard_Stalin.jpg" style="min-height: 70vh; height: 85vh; position:sticky; top:5vh;" />
 
 ---
 
