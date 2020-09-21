@@ -163,8 +163,7 @@ Klient võib olla kas liiga väheste või hoopis liiga suurte kogemustega - tema
 
 ### 🙋‍♀️<sup><sup>💬</sup></sup>
 
-##### ~*Kõige rumalam küsimus on see, mis küsimata jääb.*~
-<small>*O. Maaker, 2020*</small>
+##### ~*On ainult üks rumal küsimus – see, mis küsimata jääb.*~
 
 ~<small>Koolis on su "kliendiks" tihti õpetaja, töökohal võib olla selleks näiteks projektijuht või kogenum kolleeg. Ka õpetaja või kolleegide käest tuleb küsida küsimusi, seni kuni on selge, mida su käest tahetakse saada.</small>~
 
@@ -362,6 +361,7 @@ Esialgu ikka samamoodi - pliiatsi ja paberiga.
 | 2 4
 | 3 4
 | 5 6
+| 7 8
 
 ## Paber&shy;prototüüp
 
@@ -413,6 +413,17 @@ Mõttekaart koosnes mugavamalt muudetavatest osadest - <var>moodulitest</var> v�
 <f-image src="./img/paper-prototype.gif" style="--image-height:60vh" />
 
 <small><a href="https://commons.wikimedia.org/wiki/File:Paperbasedprototype5.jpg" title="via Wikimedia Commons">Samuel.mann at English Wikibooks</a> / <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA</a></small>
+
+-
+
+Pisut nõuandeid otse tegijailt
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/JMjozqJS44M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
 
 ---
 

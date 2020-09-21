@@ -8,5 +8,6 @@
 
 # KAK-i materjalid
 
-- <a href="./infograafika">Infograafika</a>
 - <a href="./animatsioon">Animatsioon</a>
+- <a href="./infograafika">Infograafika</a>
+- <a href="./veebidisain">Veebidisain</a>
