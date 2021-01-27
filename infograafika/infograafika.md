@@ -68,10 +68,12 @@ https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-
 ### *Natuke ajalugu ka*
 
 -
-
+Infograafika ajaloost
 http://history.infowetrust.com/
-
 https://www.easel.ly/blog/the-history-of-infographics/
+
+Suurepärane väljapanek ajaloolist infograafikat Stanfordi ülikoolilt 📌
+https://exhibits.stanford.edu/dataviz/
 
 Florence Nightingale: 
 https://www.atlasobscura.com/articles/florence-nightingale-infographic
@@ -219,7 +221,7 @@ https://www.youtube.com/watch?v=QFrqTFRy-LU
 
 http://stat24.ee/
 
-https://blog.ut.ee/30-maps-of-estonia-in-30-days/ 🆕
+https://blog.ut.ee/30-maps-of-estonia-in-30-days/ 
 
 https://www.facebook.com/mirxz/videos/10155810555378563/
 
