@@ -553,7 +553,10 @@ Siin on väike nimekiri animatsiooni ja liikuva graafika tehnikatest. Lisatud on
     - https://www.youtube.com/watch?v=JY38kZFbGcY 
 
 Varia (mitmesugust erinevat kraami)
-https://en.wikipedia.org/wiki/Mannequin_Challenge 
-https://www.youtube.com/watch?v=02AlRs-zlW8 
-Timelapse + “Tilt-Shift” efekt:  https://petapixel.com/2013/10/25/must-see-tilt-shift-time-lapse-shows-incredibly-creative-way-use-effect/ 
-https://www.youtube.com/watch?v=EOOQRPwcsT8 
+
+    - https://en.wikipedia.org/wiki/Mannequin_Challenge 
+    - https://www.youtube.com/watch?v=02AlRs-zlW8 
+    - Timelapse + “Tilt-Shift” efekt:  https://petapixel.com/2013/10/25/must-see-tilt-shift-time-lapse-shows-incredibly-creative-way-use-effect/ 
+    - https://www.youtube.com/watch?v=EOOQRPwcsT8
+    - Animaaritud pildid: https://un-gif-dans-ta-gueule.tumblr.com/
+    
