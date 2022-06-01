@@ -516,6 +516,7 @@ Siin on väike nimekiri animatsiooni ja liikuva graafika tehnikatest. Lisatud on
 <f-link to="https://en.wikipedia.org/wiki/Stop_motion">Wikipedia artikkel</f-link> 
     - nn “nukufilm” (legod, paberist lamenukud, päris inimesed jne) <f-link to="https://www.youtube.com/watch?v=_5IqwECL6bo">Human skateboard</f-link> ja üldse <f-link to="https://www.youtube.com/channel/UCXN7NMwjjQpBHxzMwOPYzjQ">kogu PES</f-link>
     - Sarnane: <f-link to="https://www.youtube.com/c/omozoc">omozoc</f-link>
+    - Brett Foxwell <f-link to="https://www.thisiscolossal.com/2017/06/woodswimmer-stop-motion-film/">lõikab läbi puidu</f-link>
     - nn <f-link to="https://www.youtube.com/watch?v=6vZ0iqUS6sg">“tahvlianimatsioon”</f-link> 
     - mõni Ametikoolis tehtud õpilastöö: <f-link to="https://www.youtube.com/watch?v=FMvLLQwxkoY">jõulud 2015</f-link>, <f-link to="https://www.youtube.com/watch?v=aUmZahfh07g">jõulud 2013</f-link> ja <f-link to="https://www.youtube.com/watch?v=YlZemcvGzzM&">Wood is Good</f-link>
 
