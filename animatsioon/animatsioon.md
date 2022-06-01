@@ -515,6 +515,7 @@ Siin on väike nimekiri animatsiooni ja liikuva graafika tehnikatest. Lisatud on
 - <var>Stop-motion</var> - kõige traditsioonilisem animatsioonitehnika - kaamera ees vahetatakse joonistatud kaadreid, mis teineseisest pisut erinevad või nihutatakse objekte, iga joonistus või pisike nihe pildistatakse üles. Üles pildistatud kaadrid videoks kokku pannes tekib illusioon liikumisest.
 <f-link to="https://en.wikipedia.org/wiki/Stop_motion">Wikipedia artikkel</f-link> 
     - nn “nukufilm” (legod, paberist lamenukud, päris inimesed jne) <f-link to="https://www.youtube.com/watch?v=_5IqwECL6bo">Human skateboard</f-link> ja üldse <f-link to="https://www.youtube.com/channel/UCXN7NMwjjQpBHxzMwOPYzjQ">kogu PES</f-link>
+    - Sarnane: <f-link to="https://www.youtube.com/c/omozoc">omozoc</f-link>
     - nn <f-link to="https://www.youtube.com/watch?v=6vZ0iqUS6sg">“tahvlianimatsioon”</f-link> 
     - mõni Ametikoolis tehtud õpilastöö: <f-link to="https://www.youtube.com/watch?v=FMvLLQwxkoY">jõulud 2015</f-link>, <f-link to="https://www.youtube.com/watch?v=aUmZahfh07g">jõulud 2013</f-link> ja <f-link to="https://www.youtube.com/watch?v=YlZemcvGzzM&">Wood is Good</f-link>
 
